@@ -1,0 +1,1 @@
+require 'capistrano-sensiolabs-insight/capistrano-sensiolabs-insight'
