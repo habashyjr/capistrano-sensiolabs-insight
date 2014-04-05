@@ -1,4 +1,4 @@
-# Capistrano-SensioLabs-Insight
+# Capistrano-SensioLabs-Insight [![Gem Version](https://badge.fury.io/rb/capistrano-sensiolabs-insight.svg)](http://badge.fury.io/rb/capistrano-sensiolabs-insight)
 =============================
 
 Capistrano recipe to notify SensioLabs Insight after deploying code
